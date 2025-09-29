@@ -24,11 +24,11 @@ repository               : "mdesai24/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "chaos.jpg"
-  name             : "Your Sidebar Name"
+  name             : "Manali Desai"
   pronouns         : "she/her"  # example: 
   bio              : "Short biography for the left-hand sidebar"
   location         : "Toronto, ON"
-  employer         : "Red Brick University"
+  employer         : "University of Toronto"
   uri              : # URL
   email            : "none@example.org" 
 
